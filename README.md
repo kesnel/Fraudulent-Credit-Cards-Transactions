@@ -1,2 +1,2 @@
-# Fraudulent-Credit-Cards-Transactions
+# Fraudulent Credit Cards Transactions
 You just got hired as the Business Analyst for the bank, and they provided you with 6 months of available data (step 0 to 179 refer to the dates). They want you to share some insights using the features in the file to determine if you can see a pattern for the fraudulent transactions. They are expecting you to provide some suggestions on how to tackle the problem.
