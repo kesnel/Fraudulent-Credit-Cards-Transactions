@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+backup.ipynb
+Project_Evaluation_Rubric-210616-151530.pdf
+Week3Project_FraudulentTransactionsAnalysis-210616-150726.pdf
